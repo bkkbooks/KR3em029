@@ -1,0 +1,444 @@
+canonical_identifier: bkk:krp/KR3em029/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3em029/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 咽喉脈證通論
+  identifiers:
+    krp: KR3em029
+  tags:
+    kr-categories: KR3em
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em029.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3em029_000-jc.yaml, hash: 'sha256:c9b69fddc4b5679a26b5f5c9836eb4d153f9777b905ebda6bbdbc0ecc172024a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3em029_000-jc.markers.yaml, hash: 'sha256:a609a83e5b6b78286d2e64517b1e4872ee34afeb386d953fe64348b78f68bb2b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 274
+  label: 姚序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d3.h1s1
+    span:
+    - front
+    - 274
+    - 871
+  label: 姚序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d4.h1s1
+    span:
+    - front
+    - 871
+    - 1170
+  label: 許序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 1338
+  label: 總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d6.h1s1
+    span:
+    - body
+    - 1338
+    - 1638
+  label: 通治用藥
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d7.h1s1
+    span:
+    - body
+    - 1638
+    - 1963
+  label: 用藥禁忌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d8.h1s1
+    span:
+    - body
+    - 1963
+    - 2526
+  label: 丸散方藥
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d8d2
+    span:
+    - body
+    - 1967
+    - 2071
+  label: 牛黃解毒丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d8d3
+    span:
+    - body
+    - 2071
+    - 2180
+  label: 紅內消散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d8d4
+    span:
+    - body
+    - 2180
+    - 2351
+  label: 保命丹錠子
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d8d5
+    span:
+    - body
+    - 2351
+    - 2391
+  label: 膽冰消毒散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d8d6
+    span:
+    - body
+    - 2391
+    - 2413
+  label: 冰硼散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d8d7
+    span:
+    - body
+    - 2413
+    - 2526
+  label: 玉屑散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d9.h1s1
+    span:
+    - body
+    - 2526
+    - 3001
+  label: 鎖喉第一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d9d4
+    span:
+    - body
+    - 2697
+    - 2778
+  label: 加減荊防敗毒散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d9d5
+    span:
+    - body
+    - 2778
+    - 3001
+  label: 加減柴胡雙解散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d10.h1s1
+    span:
+    - body
+    - 3001
+    - 3176
+  label: 重舌第二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d11.h1s1
+    span:
+    - body
+    - 3176
+    - 3345
+  label: 氣癰第三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d12.h1s1
+    span:
+    - body
+    - 3345
+    - 3762
+  label: 乳蛾第四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d13.h1s1
+    span:
+    - body
+    - 3762
+    - 3991
+  label: 弄舌第五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d14.h1s1
+    span:
+    - body
+    - 3991
+    - 4200
+  label: 纏喉第六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d15.h1s1
+    span:
+    - body
+    - 4200
+    - 4303
+  label: 啞瘴第七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d16.h1s1
+    span:
+    - body
+    - 4303
+    - 4460
+  label: 骨槽第八
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d17.h1s1
+    span:
+    - body
+    - 4460
+    - 4567
+  label: 懸蜞第九
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d17d4
+    span:
+    - body
+    - 4532
+    - 4567
+  label: 加減千金內托散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d18.h1s1
+    span:
+    - body
+    - 4567
+    - 4951
+  label: 爛喉癬第十
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d18d8
+    span:
+    - body
+    - 4872
+    - 4951
+  label: 百寶丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d19.h1s1
+    span:
+    - body
+    - 4951
+    - 5054
+  label: 熱風喉癬第十一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d19d4
+    span:
+    - body
+    - 5019
+    - 5054
+  label: 涼血地黃湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d20.h1s1
+    span:
+    - body
+    - 5054
+    - 5275
+  label: 弱證喉癬第十二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d21.h1s1
+    span:
+    - body
+    - 5275
+    - 5388
+  label: 喉閉第十三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d21d4
+    span:
+    - body
+    - 5364
+    - 5377
+  label: 四順理中湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d21d5
+    span:
+    - body
+    - 5377
+    - 5388
+  label: 四逆湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d22.h1s1
+    span:
+    - body
+    - 5388
+    - 5522
+  label: 嗆食第十四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d22d4
+    span:
+    - body
+    - 5478
+    - 5510
+  label: 當歸連翹散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d22d5
+    span:
+    - body
+    - 5510
+    - 5522
+  label: 川桂散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d23.h1s1
+    span:
+    - body
+    - 5522
+    - 5688
+  label: 發頤第十五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d23d4
+    span:
+    - body
+    - 5607
+    - 5688
+  label: 南星膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d24.h1s1
+    span:
+    - body
+    - 5688
+    - 5811
+  label: 懸癰第十六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d25.h1s1
+    span:
+    - body
+    - 5811
+    - 6010
+  label: 喉菌第十七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d26.h1s1
+    span:
+    - body
+    - 6010
+    - 6168
+  label: 牙癰第十八
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em029_jc_000-d27.h1s1
+    span:
+    - body
+    - 6168
+    - 6325
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:4329029a30a1e99e68e2671099d778fd30dd5a8a555716a0499370441e9b08ec
