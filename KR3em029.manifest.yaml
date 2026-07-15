@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3em029/v1
 canonical_location: https://kanripo.org/bkk/KR3em029/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 咽喉脈證通論
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3em029_000.yaml, hash: 'sha256:c9b69fddc4b5679a26b5f5c9836eb4d153f9777b905ebda6bbdbc0ecc172024a'}
+  - {seq: 0, filename: KR3em029_000.yaml, hash: 'sha256:481c9f2338c7576869ecb2a29fc63e9b7ccfbcc35619b5afac7d3120e9a4c107'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em029_000.markers.yaml, hash: 'sha256:460cad2e1a3c3d1792a9af85a676a95b07a01404343d2341fa8f2b89f821ba6e'}
+  - {seq: 0, role: markers, filename: assets/KR3em029_000.markers.yaml, hash: 'sha256:17715ba4312ab7c9d0d931863d4c9b2e83f6d023d3f86eb9c393d7f3cc0bb590'}
 table_of_contents:
 - ref:
     seq: 0
@@ -441,4 +441,7 @@ table_of_contents:
   label: 跋
   type: section
   level: 1
-hash: sha256:4eab10bffb9cf859208489a52fff33dffafa66dbd9504b38650e46ef8d86cd3c
+hash: sha256:22b838f5d7b6adea53ac7dc941b35afe0b9242593e753db1c96c4de85338592f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
