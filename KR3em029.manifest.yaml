@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3em029_000.yaml, hash: 'sha256:481c9f2338c7576869ecb2a29fc63e9b7ccfbcc35619b5afac7d3120e9a4c107'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em029_000.markers.yaml, hash: 'sha256:17715ba4312ab7c9d0d931863d4c9b2e83f6d023d3f86eb9c393d7f3cc0bb590'}
+  - {seq: 0, role: markers, filename: assets/KR3em029_000.markers.yaml, hash: 'sha256:c09f1b85139afce22ce15deae27eed5938f8a0c2d3f5b2a9109a831125b4e6be'}
 table_of_contents:
 - ref:
     seq: 0
@@ -441,7 +441,7 @@ table_of_contents:
   label: 跋
   type: section
   level: 1
-hash: sha256:22b838f5d7b6adea53ac7dc941b35afe0b9242593e753db1c96c4de85338592f
+hash: sha256:44f29eac66ae6bf379dc5ac799fcbf0b0fe7d85f1e6668d398841ea61ede345e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
